@@ -21,7 +21,7 @@ Deeply interested in AI and Machine Learning, I’m continuously learning how to
 
 ## Goal 🌏
 
-To grow as a modern Data Analyst who doesn’t just analyze data — but turns it into clarity, strategy, and action. I’m focused on delivering clean, insightful, and automation-ready analytics using Python, SQL, Excel, and Power BI. My goal is to contribute to projects that solve real business problems, explore AI/ML applications meaningfully, and keep evolving with the future of data.
+To grow as a modern **AI-driven Data Analyst** who doesn’t just analyze data — but turns it into clarity, strategy, and action. I’m focused on delivering clean, insightful, and automation-ready analytics using Python, SQL, Excel, and Power BI. My goal is to contribute to projects that solve real business problems, explore AI/ML applications meaningfully, and keep evolving with the future of data.
 
 ---
 
