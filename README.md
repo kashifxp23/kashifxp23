@@ -1,4 +1,4 @@
-![Banner](assets/banner.jpg)
+![Banner](.github/banner.jpg)
 
 # Hello, I'm Kashif 👋
 
