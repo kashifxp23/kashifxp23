@@ -1,5 +1,4 @@
-</![Banner](assets/banner.jpg)
-alt="Kashif Patel Banner" style="width:100%;" />
+![Banner](assets/banner.jpg)
 
 # Hello, I'm Kashif 👋
 
