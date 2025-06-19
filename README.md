@@ -40,7 +40,7 @@ AI & Machine Learning (Classification, Clustering, Model Evaluation) · Hypothes
 
 ## Projects 📚
 
-### 📊 BUSINESS INSIGHTS 360 
+### **📊 [BUSINESS INSIGHTS 360](https://github.com/kashifxp23/Power-BI-Business-Insights-360)**
 - *Tech Focus:* Power BI
 - *Domain:* Business Intelligence  
 - *Description:* Built an enterprise-level Power BI dashboard to unify finance, sales, marketing, and supply chain performance.  
@@ -51,7 +51,7 @@ AI & Machine Learning (Classification, Clustering, Model Evaluation) · Hypothes
 
 ---
 
-### 🧃 CONSUMER GOODS AD-HOC ANALYSIS  
+### **🧃 [CONSUMER GOODS AD-HOC ANALYSIS](https://github.com/kashifxp23/kashifxp23/edit/main/README.md)** 
 - *Tech Focus:* SQL 
 - *Domain:* FMCG 
 - *Description:* Executed 10 stakeholder-like data queries to derive real-time insights from consumer goods datasets.  
@@ -62,7 +62,7 @@ AI & Machine Learning (Classification, Clustering, Model Evaluation) · Hypothes
 
 ---
 
-### 🏨 ATLIQ HOTELS PERFORMANCE ANALYSIS  
+### 🏨 [ATLIQ HOTELS PERFORMANCE ANALYSIS]  
 - *Tech Focus:* Python 
 - *Domain:* Hospitality
 - *Description:* Performed exploratory analysis to understand revenue and occupancy dynamics across multiple cities.  
@@ -73,7 +73,7 @@ AI & Machine Learning (Classification, Clustering, Model Evaluation) · Hypothes
 
 ---
 
-### 📈 SALES & FINANCE ANALYTICS  
+### **📈 [SALES & FINANCE ANALYTICS](https://github.com/kashifxp23/Excel-Sales-Analytics)** 
 - *Tech Focus:* Excel
 - *Domain:* Retail  
 - *Description:* Designed a multi-year financial and sales performance report to support key business decisions.  
@@ -111,10 +111,10 @@ Let's explore the world of data together! Feel free to reach out—I'm always op
 
 ## Pinned Projects 📌
 
-- [*Business Insights 360*](#) — Power BI-driven unified reporting across Finance, Sales, Marketing & Supply Chain.
-- [*Consumer Goods Ad-Hoc Analysis*](#) — SQL-based stakeholder query analysis in the FMCG sector.
+- [*Business Insights 360*](https://github.com/kashifxp23/Power-BI-Business-Insights-360) — Power BI-driven unified reporting across Finance, Sales, Marketing & Supply Chain.
+- [*Consumer Goods Ad-Hoc Analysis*](https://github.com/kashifxp23/Consumer-Goods-Analysis-SQL) — SQL-based stakeholder query analysis in the FMCG sector.
 - [*AtliQ Hotels Performance Analysis*](#) — Python-powered revenue and occupancy insights in the hospitality domain.
-- [*Sales & Finance Analytics*](#) — Excel-based financial dashboarding for retail decision-making.
+- [*Sales & Finance Analytics*](https://github.com/kashifxp23/Excel-Sales-Analytics) — Excel-based financial dashboarding for retail decision-making.
 
 ---
 
