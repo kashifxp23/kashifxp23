@@ -62,7 +62,7 @@ AI & Machine Learning (Classification, Clustering, Model Evaluation) · Hypothes
 
 ---
 
-### **🏨 [ATLIQ HOTELS PERFORMANCE ANALYSIS](https://github.com/kashifxp23/Hospital-Revenue-EDA-Python)  
+### **🏨 [ATLIQ HOTELS PERFORMANCE ANALYSIS](https://github.com/kashifxp23/Hospital-Revenue-EDA-Python)**  
 - *Tech Focus:* Python 
 - *Domain:* Hospitality
 - *Description:* Performed exploratory analysis to understand revenue and occupancy dynamics across multiple cities.  
