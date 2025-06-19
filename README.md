@@ -62,7 +62,7 @@ AI & Machine Learning (Classification, Clustering, Model Evaluation) · Hypothes
 
 ---
 
-### 🏨 [ATLIQ HOTELS PERFORMANCE ANALYSIS]  
+### **🏨 [ATLIQ HOTELS PERFORMANCE ANALYSIS](https://github.com/kashifxp23/Hospital-Revenue-EDA-Python)  
 - *Tech Focus:* Python 
 - *Domain:* Hospitality
 - *Description:* Performed exploratory analysis to understand revenue and occupancy dynamics across multiple cities.  
@@ -113,7 +113,7 @@ Let's explore the world of data together! Feel free to reach out—I'm always op
 
 - [*Business Insights 360*](https://github.com/kashifxp23/Power-BI-Business-Insights-360) — Power BI-driven unified reporting across Finance, Sales, Marketing & Supply Chain.
 - [*Consumer Goods Ad-Hoc Analysis*](https://github.com/kashifxp23/Consumer-Goods-Analysis-SQL) — SQL-based stakeholder query analysis in the FMCG sector.
-- [*AtliQ Hotels Performance Analysis*](#) — Python-powered revenue and occupancy insights in the hospitality domain.
+- [*AtliQ Hotels Performance Analysis*](https://github.com/kashifxp23/Hospital-Revenue-EDA-Python) — Python-powered revenue and occupancy insights in the hospitality domain.
 - [*Sales & Finance Analytics*](https://github.com/kashifxp23/Excel-Sales-Analytics) — Excel-based financial dashboarding for retail decision-making.
 
 ---
