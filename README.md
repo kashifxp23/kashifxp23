@@ -1,4 +1,5 @@
-<img src= "[https://raw.githubusercontent.com/kashifxp23/kashifxp23/refs/heads/main/Blue%20and%20White%20Simple%20Designer%20LinkedIn%20Banner%20(1).jpg](https://raw.githubusercontent.com/kashifxp23/kashifxp23/refs/heads/main/assets/banner.jpg)" alt="Kashif Patel Banner" style="width:100%;" />
+![Banner](assets/banner.jpg)
+alt="Kashif Patel Banner" style="width:100%;" />
 
 # Hello, I'm Kashif 👋
 
