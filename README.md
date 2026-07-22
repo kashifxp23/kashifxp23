@@ -3,13 +3,13 @@
 # Hello, I'm Kashif 👋
 
 Welcome to my GitHub profile!  
-Insight-driven Data Analyst with a sharp focus on solving real-world business problems through clean, actionable analytics. 🌟
+Insight-driven Data Engineer with a sharp focus on solving real-world business problems through clean, actionable analytics. 🌟
 
 ---
 
 ## About Me 😇
 
-Curious by nature and driven by data, I’m a passionate Data Analyst with 3+ years of experience turning raw numbers into meaningful business stories.
+Curious by nature and driven by data, I’m a passionate Data Engineer with 4+ years of experience turning raw numbers into meaningful business stories.
 
 I specialize in Python, Excel, SQL (MySQL), and Power BI — tools I’ve used to clean messy datasets, build high-impact dashboards, and automate reports that save hours of manual effort. My work often uncovers hidden patterns, enabling smarter decisions in domains like sales, supply chain, hospitality, and marketing.
 
@@ -21,7 +21,7 @@ Deeply interested in AI and Machine Learning, I’m continuously learning how to
 
 ## Goal 🌏
 
-To grow as a modern **AI-driven Data Analyst** who doesn’t just analyze data — but turns it into clarity, strategy, and action. I’m focused on delivering clean, insightful, and automation-ready analytics using Python, SQL, Excel, and Power BI. My goal is to contribute to projects that solve real business problems, explore AI/ML applications meaningfully, and keep evolving with the future of data.
+To grow as a modern **AI-driven Data Engineer** who doesn’t just analyze data — but turns it into clarity, strategy, and action. I’m focused on delivering clean, insightful, and automation-ready analytics using Python, SQL, Excel, and Power BI. My goal is to contribute to projects that solve real business problems, explore AI/ML applications meaningfully, and keep evolving with the future of data.
 
 ---
 
